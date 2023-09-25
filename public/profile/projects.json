@@ -128,7 +128,7 @@
             "bodyText": "- Simplifies bill splitting among friends.\n -  Allows users to split bills and make individual payments.\n ",
             "links": [
                 {
-                    "text": "Live",
+                    "text": "Live Demo",
                     "href": "https://eat-n-split-drab.vercel.app/"
                 }
             ],
@@ -143,7 +143,7 @@
             "bodyText": "- For quick URL storage.\n - Easily add and organize URLs for future reference.\n ",
             "links": [
                 {
-                    "text": "Live",
+                    "text": "Live Demo",
                     "href": "https://vercel.com/dashboard"
                 }
             ],
@@ -157,7 +157,7 @@
             "bodyText": "- Classic Blackjack card game.Providing an enjoyable gaming experience.\n - Offers engaging gameplay with strategy and luck.",
             "links": [
                 {
-                    "text": "Live",
+                    "text": "Live Demo",
                     "href": "https://black-jack-game-delta.vercel.app/"
                 }
             ],
@@ -171,7 +171,7 @@
             "bodyText": "- offers a 7-day weather forecast.\n- Users can input their location for personalized weather updates",
             "links": [
                 {
-                    "text": "Live",
+                    "text": "Live Demo",
                     "href": "https://classy-weather-eight.vercel.app/"
                 }
             ],
