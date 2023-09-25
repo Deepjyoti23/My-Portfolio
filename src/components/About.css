@@ -1,0 +1,31 @@
+/* About.css */
+
+/* Default styles for larger screens */
+.introTextContainer {
+    margin: 300px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    flex-direction: column;
+    white-space: pre-wrap;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+  }
+  
+  /* Media query for screens with a max width of 768px (typical for mobile devices) */
+  @media (max-width: 768px) {
+    .introTextContainer {
+      margin: 10px; /* Adjust the margin for smaller screens */
+      font-size: 1em; /* Adjust the font size for smaller screens */
+      text-align: justify;
+    }
+  }
+
+  @media only screen and (min-width: 768px) and (max-width: 992px) {
+    .introTextContainer{
+        margin: 10px;
+        text-align: justify;
+    }
+  }
+
+  
